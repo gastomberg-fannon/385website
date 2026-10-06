@@ -1,0 +1,7 @@
+---
+title: "gabe's super cool website :)"
+---
+The website example I liked was the Palmer Penguins page
+<https://jjallaire.shinyapps.io/penguins-dashboard/>
+
+I could maybe use it as a template to analyze frequencies of audio files.

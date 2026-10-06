@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "My example website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+        
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Assignments"
+        contents:
+          - ae01-unvotes.qmd
+
+format:
+  html:
+    theme:
+      - pulse
+      - brand
+    css: styles.css
+    toc: true
+
+
+
